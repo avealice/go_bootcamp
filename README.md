@@ -22,3 +22,13 @@ __day02__
 * myXargs: A tool that treats parameters as a command and builds a command by appending lines from stdin as arguments. This utility allows executing commands with arguments read from stdin.
 
 * myRotate: A log rotation tool to archive log files and manage their storage. It can create archived log files with UNIX timestamps and support parallel processing using goroutines. Users can also specify an archive directory with the -a option.
+
+__day03__
+
+This project leverages Elasticsearch for managing a Moscow restaurant dataset. It guides users through setting up Elasticsearch, creating an index, and populating data using Go.
+
+* Exercise 01: Creates an HTML UI for paginated restaurant display.
+* Exercise 02: Adds a JSON API for restaurant data, supporting pagination.
+* Exercise 03: Implements finding the three closest restaurants based on coordinates.
+* Exercise 04: Enhances security with JSON Web Token (JWT) authentication.
+
