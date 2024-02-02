@@ -13,7 +13,7 @@ __day01__
 
 * compareFS: The compareFS tool facilitates the efficient comparison of server filesystem backups, identifying added and removed files from two plain text file dumps. It handles large file sizes by avoiding simultaneous loading into RAM, offering a practical solution for filesystem backup comparisons.
 
-  __day02__
+__day02__
 
 * myFind: A utility to locate directories, regular files, and symbolic links within a specified path. Users can customize output by specifying options like -sl, -d, -f, and -ext to filter results based on file types and extensions.
 
